@@ -58,7 +58,7 @@ body {
 
 .download-button {
   display: inline-block;
-  background-color: #e79f1f; /* ロゴの赤 */
+  background-color: #e79f1f;
   color: white;
   padding: 0.8rem 1.5rem;
   text-decoration: none;
